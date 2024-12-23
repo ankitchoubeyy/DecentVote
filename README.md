@@ -1,6 +1,6 @@
 
 
-### A Secure and Transparent Blockchain-Based Voting System
+### DecentVote Blockchain-Based Voting System
 
 **DecentVote** is an innovative and decentralized voting platform built on blockchain technology. Our system ensures secure, transparent, and tamper-proof elections for communities, organizations, and governments. With decentVote, we aim to revolutionize the way elections are conducted, making them more reliable and accessible for everyone.
 

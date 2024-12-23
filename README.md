@@ -32,12 +32,4 @@
    npm run dev
    ```
 
-### Contributing
-We welcome contributions from the community! Whether it's bug fixes, new features, or improvements, your input helps make decentVote even better. Please check our [contribution guidelines](CONTRIBUTING.md) for more details.
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify this description as needed to better fit your project. Good luck with **decentVote**—it sounds like a game-changer! If you need further assistance, let me know.

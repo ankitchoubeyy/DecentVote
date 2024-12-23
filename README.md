@@ -20,7 +20,7 @@
 ### Getting Started with Frontend
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/decentVote.git
+   git clone https://github.com/ankitchoubeyy/DecentVote.git
    cd decentVote
    ```
 2. **Install Dependencies**:
